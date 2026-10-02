@@ -123,33 +123,15 @@ HAND-VISION currently provides two main interface modes.
 
 ### 📷 Camera Screen
 
-The camera screen provides:
+* The HAND-VISION interface provides:
 
-* Real-time webcam view
-* MediaPipe hand landmarks
-* Detected gesture
+* Real-time webcam camera view
+* Hand landmark visualization using MediaPipe
+* Recognition of the detected hand gesture
 * Corresponding action
-* Keyboard controls
-* Centered HAND-VISION title
-* Compact information panel
-
-Example:
-
-```text
-              HAND-VISION
-       Hand Gesture Recognition
-
-
-       [ Real-Time Camera View ]
-
-
-┌─────────────────────────────┐
-│ Gesture: POINT RIGHT        │
-│ Action:  RIGHT              │
-└─────────────────────────────┘
-                         H - Help
-                         Q - Exit
-```
+* - Display of the corresponding action
+- `H` key to open the Help screen
+- `Q` key to exit the application
 
 The information panel is intentionally kept compact so that it does not unnecessarily cover the user's hand.
 
