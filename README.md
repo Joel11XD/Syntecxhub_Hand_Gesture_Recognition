@@ -124,14 +124,14 @@ HAND-VISION currently provides two main interface modes.
 ### 📷 Camera Screen
 
 * The HAND-VISION interface provides:
-
-* Real-time webcam camera view
-* Hand landmark visualization using MediaPipe
-* Recognition of the detected hand gesture
-* Corresponding action
-* - Display of the corresponding action
-- `H` key to open the Help screen
-- `Q` key to exit the application
+* 
+- Real-time webcam camera view
+- Hand landmark visualization using MediaPipe
+- Recognition of the detected hand gesture
+- Corresponding action
+- Display of the corresponding action
+* `H` key to open the Help screen
+* `Q` key to exit the application
 
 The information panel is intentionally kept compact so that it does not unnecessarily cover the user's hand.
 
@@ -264,14 +264,14 @@ HAND-VISION closed successfully.
 
 ## 💡 Example Interaction
 
-### Step 1: 🎥 Start the application.
-### Step 2: ✋ Place one hand in front of the webcam.
-### Step 3: 🤖 MediaPipe detects the hand and its landmarks.
-### Step 4: 🧠 The system analyzes the finger positions.
-### Step 5: ⚡ HAND-VISION identifies the gesture and corresponding action.
-### Step 6: 📖 Press **H** to view the gesture guide.
-### Step 7: 📷 Press **H** again to return to the camera.
-### Step 8: ❌ Press **Q** to close the application.
+* Step 1: 🎥 Start the application.
+* Step 2: ✋ Place one hand in front of the webcam.
+* Step 3: 🤖 MediaPipe detects the hand and its landmarks.
+* Step 4: 🧠 The system analyzes the finger positions.
+* Step 5: ⚡ HAND-VISION identifies the gesture and corresponding action.
+* Step 6: 📖 Press **H** to view the gesture guide.
+* Step 7: 📷 Press **H** again to return to the camera.
+* Step 8: ❌ Press **Q** to close the application.
 
 ---
 
